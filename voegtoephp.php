@@ -12,6 +12,8 @@
 // echo "<li>".$boodschap{'omschrijving'}."</li>";
 //}
 
+//maak eerst database
+
 //if(isset($_GET{'idboodschap'})) {
 //$idproduct = $_GET{'idproduct'};
 //$omschrijving = $_GET{'omschrijving'};
