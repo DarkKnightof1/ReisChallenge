@@ -6,6 +6,8 @@
  * Time: 13:16
  */
 
+//verander database connectie gegevens met de komende nieuwe database
+
 //$dbh = new PDO('mysql:host=localhost;dbname=boodschappen2;port=8889', 'root', 'root');
 //$boodschappen = $dbh->query('SELECT * from product');
 
