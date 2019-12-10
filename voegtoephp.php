@@ -8,6 +8,9 @@
 
 //$dbh = new PDO('mysql:host=localhost;dbname=boodschappen2;port=8889', 'root', 'root');
 //$boodschappen = $dbh->query('SELECT * from product');
+
+//alles netjes in een rij
+
 //foreach ($boodschappen as $boodschap) {
 // echo "<li>".$boodschap{'omschrijving'}."</li>";
 //}
